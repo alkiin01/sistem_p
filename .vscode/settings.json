@@ -1,0 +1,7 @@
+{
+    "git.ignoreLimitWarning": true,
+    "totvsLanguageServer.welcomePage": false,
+    "files.associations": {
+        "uts_lia.C": "cpp"
+    }
+}
